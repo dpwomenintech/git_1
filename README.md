@@ -3,7 +3,7 @@ When you have copied something and would like to paste it into the Git Bash term
 
 ### Clone this repository using
 ```
-git clone https://github.com/dpwomenintech/git_1/newFile.git
+git clone https://github.com/dpwomenintech/git_1.git
 ```
 
 ### Navigate to the repository 
