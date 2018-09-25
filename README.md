@@ -1,3 +1,4 @@
+## GitHub Basics!
 ## Note on copy and paste using Git Bash
 When you have copied something and would like to paste it into the Git Bash terminal, the traditional Ctr+V will not work instead you need to use Shift+Insert to paste from the clipboard.
 
