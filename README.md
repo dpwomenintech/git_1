@@ -32,7 +32,7 @@ Edit the text file by opening the text file in any text editor ie. Notepad, Note
 In the future you may have multiple branches you are working on. To switch between these branches use the checkout command ```git checkout BRANCHNAME```
 
 #### Creating a text file
-You can create a text file many different ways one way is to use git bash by running ```touch fileName.txt``` or by right clicking in the directory in file explorer and selecting "New" then "Text File"
+You can create a text file many different ways one way is to use git bash by running ```touch fileName.txt``` or by right clicking in the directory in file explorer and selecting "New" then "Text File." Inside the text file write your name & favorite food.
 
 ### Commit your code
 Commiting your code is essentially taking a snapshot of the work you have done since the last snapshot. You should commit your code every time there is a significant change or you are done working for the period/day.
