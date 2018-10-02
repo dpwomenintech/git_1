@@ -8,7 +8,7 @@ git clone https://github.com/dpwomenintech/git_1.git
 ```
 
 ### Navigate to the repository 
-Use the command ```cd GitBasics1``` (change directory command).
+Use the command ```cd git_1``` (change directory command depending on what the folder name is).
 
 If you run the command ```ls``` it will list out all of the files currently in the directory.
 
@@ -62,3 +62,5 @@ When you have completed all of the necessary tasks, and successfully pushed to y
 Pull requests are useful as they group all of your branch changes together to be reviewed and incorported into the master branch.
 
 To open a pull request follow this [guide.](https://services.github.com/on-demand/github-cli/open-pull-request-github)
+
+[Guide created by Dos Pueblos Engineering Academy]
